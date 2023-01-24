@@ -99,10 +99,10 @@ N:${await rixx.getName(i + '@s.whatsapp.net')}\n
 FN:${await rixx.getName(i + '@s.whatsapp.net')}\n
 item1.TEL;waid=${i}:${i}\n
 item1.X-ABLabel:Ponsel\n
-item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.EMAIL;type=INTERNET:https://instagram.com/anggatzi123\n
 item2.X-ABLabel:Email\n
-item3.URL:https://bit.ly/39Ivus6\n
-item3.X-ABLabel:YouTube\n
+item3.URL:https://BugBotz@gmail.com\n
+item3.X-ABLabel:https://instagram.com/anggatzi123\n
 item4.ADR:;;Indonesia;;;;\n
 item4.X-ABLabel:Region\n
 END:VCARD`
